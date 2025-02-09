@@ -1,4 +1,4 @@
-### start learning
+### Start Learning
 
 I have created a roadmap for beginners.
 
@@ -30,7 +30,7 @@ OPTIONS
 CONNECT
 TRACE
 
-Status Code
+HTTP Status Messages
 1xx
 2xx
 3xx
